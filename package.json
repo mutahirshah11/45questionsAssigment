@@ -1,0 +1,13 @@
+{
+  "name": "45questions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "1to41.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mutahir",
+  "license": "MIT"
+}
